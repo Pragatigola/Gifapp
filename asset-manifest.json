@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gifapp/static/css/main.29558616.css",
+    "main.js": "/Gifapp/static/js/main.5d0131a4.js",
+    "index.html": "/Gifapp/index.html",
+    "main.29558616.css.map": "/Gifapp/static/css/main.29558616.css.map",
+    "main.5d0131a4.js.map": "/Gifapp/static/js/main.5d0131a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29558616.css",
+    "static/js/main.5d0131a4.js"
+  ]
+}
